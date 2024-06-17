@@ -28,7 +28,7 @@
 
 ```
 git clone git@github.com:sumedhakoranga/Sumedha-Koranga-AnswersAI-Backend.git
-cd Backend
+cd Sumedha-Koranga-AnswersAi-Backend
 ```
 ### Backend Environment Variables
 
